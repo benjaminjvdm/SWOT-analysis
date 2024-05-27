@@ -51,4 +51,4 @@ Threats: Increased competition, Economic downturn, Regulatory changes
 
 ## About the Author
 
-This app was created by [Moon Benjee (문벤지)]([https://www.linkedin.com/in/benjaminjvdm/](https://www.linkedin.com/in/benjaminjvdm/)). Feel free to connect with me on LinkedIn!
+This app was created by Moon Benjee (문벤지). Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/benjaminjvdm/)!
