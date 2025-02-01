@@ -14,7 +14,7 @@ with st.sidebar:
 
     if response.status_code == 200:
         image = response.content
-        st.image(image, caption="Moon Benjee (문벤지)", use_column_width=True)  # Display image with caption
+        st.image(image, caption="Moon Benjee (문벤지)", use_container_width=True)  # Display image with caption
     else:
         st.write("Image not found.")
 
